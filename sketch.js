@@ -3,7 +3,7 @@ var position;
 
 
 function setup(){
-  var database = firebase.database();
+ database = firebase.database();
   console.log(database);
   createCanvas(500,500);
 
